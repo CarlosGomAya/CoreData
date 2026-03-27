@@ -1,0 +1,1 @@
+En esta carpeta se almacenan los entregables parciales del proyecto, organizados por cada etapa o semana de trabajo. Su propósito es llevar un seguimiento del progreso del equipo, documentar los cambios realizados y facilitar la revisión continua del desarrollo del sistema.
